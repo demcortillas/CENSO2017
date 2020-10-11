@@ -4,12 +4,12 @@ En el repositorio se encontrará a disposición los datos
 cartográficos divididos en la siguiente estructura:
 
 #### Polígonos cartográficos
-1- Región
-	2- Comuna
-		3- Distrito Censal
-			4- Zona o Localidad
-				-Zona cuando es urbano
-				-Localidad cuando es rural
+1. Región
+2. Comuna
+3. Distrito Censal
+4. Zona o Localidad
+	-Zona cuando es urbano
+	-Localidad cuando es rural
 
 Técnicamente el nivel de mayor desagregación es el de nivel de manzana, pero tiene el problema
 que por ley de transparencia no se permite llegar a ese nivel. Entonces toda agregación
